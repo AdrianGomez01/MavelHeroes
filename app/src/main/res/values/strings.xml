@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MavelHeroes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hero_list">Lista de Heroes</string>
+    <string name="intelligence">Inteligencia</string>
+    <string name="Power">Poder</string>
+    <string name="hero_image">Imagen del heroe</string>
+    <string name="invoke_hero">Has convocado a %s.</string>
+</resources>
